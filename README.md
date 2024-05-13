@@ -1,8 +1,8 @@
-## Description
+## Description 📖
 
 This is a NestJS test repository for backend practice purposes.  
 
-## Installation
+## Installation ⚙️
 
 ```bash
 $ npm install
